@@ -18,6 +18,7 @@ public class ProjetoGerenciadorDeFila {
 
         String teste = input.nextLine();
         System.out.println("\n\n"+teste);
+        System.out.println("\n\nPrint teste 02");
         input.close();
     }
 }
